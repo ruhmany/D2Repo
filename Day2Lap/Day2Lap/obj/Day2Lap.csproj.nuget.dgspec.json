@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyProgress\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj": {}
+    "F:\\ITI\\ITI Mostafa\\BACKEND\\c# adv\\d\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj": {}
   },
   "projects": {
-    "E:\\MyProgress\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj": {
+    "F:\\ITI\\ITI Mostafa\\BACKEND\\c# adv\\d\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyProgress\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj",
+        "projectUniqueName": "F:\\ITI\\ITI Mostafa\\BACKEND\\c# adv\\d\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj",
         "projectName": "Day2Lap",
-        "projectPath": "E:\\MyProgress\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj",
-        "packagesPath": "C:\\Users\\HP-450\\.nuget\\packages\\",
-        "outputPath": "E:\\MyProgress\\D2Repo\\Day2Lap\\Day2Lap\\obj\\",
+        "projectPath": "F:\\ITI\\ITI Mostafa\\BACKEND\\c# adv\\d\\D2Repo\\Day2Lap\\Day2Lap\\Day2Lap.csproj",
+        "packagesPath": "C:\\Users\\DEll G3\\.nuget\\packages\\",
+        "outputPath": "F:\\ITI\\ITI Mostafa\\BACKEND\\c# adv\\d\\D2Repo\\Day2Lap\\Day2Lap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP-450\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEll G3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
