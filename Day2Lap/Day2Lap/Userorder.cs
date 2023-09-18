@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace Day2Lap
 {
-    public class Order
+    public class Userorder
     {
-        public int ID { get; set; }
-        static void show()
+        public Userorder()
         {
-            Console.WriteLine("Hello world");
+            Order o = new Order();
+            o.ID = 1;
+            User u = new User();
+            u.Name = "Test";
         }
     }
 }
