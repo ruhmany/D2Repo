@@ -9,9 +9,5 @@ namespace Day2Lap
     public class Order
     {
         public int ID { get; set; }
-        static void show()
-        {
-            Console.WriteLine("Hello world");
-        }
     }
 }
