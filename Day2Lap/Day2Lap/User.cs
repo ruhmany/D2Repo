@@ -8,7 +8,12 @@ namespace Day2Lap
 {
     public class User
     {
-        public  string Name { get; set; }
+        public string Name { get; set; }
+	public int ID {get; set;}
+        public override string ToString()
+        {
+            return $"{ID}, {Name}";
+        }
     }
 
 }

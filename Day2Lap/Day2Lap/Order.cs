@@ -9,5 +9,11 @@ namespace Day2Lap
     public class Order
     {
         public int ID { get; set; }
+        public User user { get; set; }
+	public int price { get; set; }
+	public override string ToString()
+        {
+            return $"{ID}, {user.Name}, {price}";
+        }
     }
 }
